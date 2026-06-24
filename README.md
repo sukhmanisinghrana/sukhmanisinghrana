@@ -76,6 +76,7 @@ I'm a Cybersecurity Research Engineer currently deployed as a **Resident Enginee
 | CEH Master (v13) | EC-Council | Jun 2025 |
 | CEH Practical (v13) | EC-Council | Jun 2025 |
 | CEH Theory (v13) | EC-Council | Jun 2025 |
+| Associate CISO (ISEA Certified) | ISEA | Nov 2025 |
 | Mastering Ethical Hacking Tools | EC-Council / CodeRED | 2024 |
 | Cyber AI Toolkit | EC-Council / CodeRED | 2024 |
 | ICS Cybersecurity Evaluation – 401 (Virtual) | CISA | — |
